@@ -23,4 +23,4 @@ else:
     print(A1-B1)
     print(A1*B1)
     print(int(A1/B1))
-    print(A1%B1)
+    print(A%B)
